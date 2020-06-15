@@ -1,0 +1,12 @@
+﻿[2020.06.13-15.05.15:669][  0]Log file open, 06/13/20 11:05:15
+[2020.06.13-15.05.15:669][  0]ARK Version: 311.87
+[2020.06.13-15.05.15:669][  0]PID: 12410
+[2020.06.13-15.05.36:817][  0]Primal Game Data Took 20.58 seconds
+[2020.06.13-15.05.45:376][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.06.13-15.06.27:790][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.06.13-15.06.27:790][  0]BattlEye successfully started.
+[2020.06.13-15.06.27:791][  0]bEnableMeshBitingProtection is True
+[2020.06.13-15.06.47:409][  0]Server: "Penu2" has successfully started!
+[2020.06.13-15.07.01:302][  0]Commandline:  Ragnarok?SessionName=Penu2?AltSaveDirectoryName=Ragnarok?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27017?RCONPort=27022?Port=7779 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
+[2020.06.13-15.07.01:302][  0]Full Startup: 106.79 seconds (BP compile: 0.00 seconds)
+[2020.06.13-15.07.01:302][  0]Number of cores 4

@@ -1,12 +1,12 @@
-﻿[2020.06.13-15.01.22:780][  0]Log file open, 06/13/20 11:01:22
-[2020.06.13-15.01.22:780][  0]ARK Version: 311.87
-[2020.06.13-15.01.22:780][  0]PID: 10872
-[2020.06.13-15.04.46:910][  0]Primal Game Data Took 203.38 seconds
-[2020.06.13-15.04.54:810][  0]SteamSocketsOpenSource: gethostname failed ()
-[2020.06.13-15.05.34:435][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
-[2020.06.13-15.05.34:460][  0]BattlEye successfully started.
-[2020.06.13-15.05.34:461][  0]bEnableMeshBitingProtection is True
-[2020.06.13-15.06.03:514][  0]Server: "Penu1" has successfully started!
-[2020.06.13-15.06.10:805][  0]Commandline:  TheIsland?SessionName=Penu1?AltSaveDirectoryName=TheIsland?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27015?RCONPort=27020?Port=7777 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
-[2020.06.13-15.06.10:805][  0]Full Startup: 292.30 seconds (BP compile: 0.00 seconds)
-[2020.06.13-15.06.10:805][  0]Number of cores 4
+﻿[2020.06.14-15.01.23:240][  0]Log file open, 06/14/20 11:01:23
+[2020.06.14-15.01.23:240][  0]ARK Version: 311.87
+[2020.06.14-15.01.23:240][  0]PID: 10501
+[2020.06.14-15.04.51:973][  0]Primal Game Data Took 207.96 seconds
+[2020.06.14-15.04.59:643][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.06.14-15.05.41:748][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.06.14-15.05.41:770][  0]BattlEye successfully started.
+[2020.06.14-15.05.41:771][  0]bEnableMeshBitingProtection is True
+[2020.06.14-15.06.10:611][  0]Server: "Penu1" has successfully started!
+[2020.06.14-15.06.17:898][  0]Commandline:  TheIsland?SessionName=Penu1?AltSaveDirectoryName=TheIsland?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27015?RCONPort=27020?Port=7777 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
+[2020.06.14-15.06.17:898][  0]Full Startup: 298.76 seconds (BP compile: 0.00 seconds)
+[2020.06.14-15.06.17:898][  0]Number of cores 4
