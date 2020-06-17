@@ -1,12 +1,12 @@
-﻿[2020.06.15-15.05.15:493][  0]Log file open, 06/15/20 11:05:15
-[2020.06.15-15.05.15:493][  0]ARK Version: 311.87
-[2020.06.15-15.05.15:493][  0]PID: 12031
-[2020.06.15-15.05.36:609][  0]Primal Game Data Took 20.55 seconds
-[2020.06.15-15.05.49:383][  0]SteamSocketsOpenSource: gethostname failed ()
-[2020.06.15-15.06.33:693][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
-[2020.06.15-15.06.33:694][  0]BattlEye successfully started.
-[2020.06.15-15.06.33:695][  0]bEnableMeshBitingProtection is True
-[2020.06.15-15.06.53:497][  0]Server: "Penu2" has successfully started!
-[2020.06.15-15.07.07:428][  0]Commandline:  Ragnarok?SessionName=Penu2?AltSaveDirectoryName=Ragnarok?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27017?RCONPort=27022?Port=7779 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
-[2020.06.15-15.07.07:428][  0]Full Startup: 112.98 seconds (BP compile: 0.00 seconds)
-[2020.06.15-15.07.07:429][  0]Number of cores 4
+﻿[2020.06.16-15.05.15:316][  0]Log file open, 06/16/20 11:05:15
+[2020.06.16-15.05.15:316][  0]ARK Version: 311.87
+[2020.06.16-15.05.15:316][  0]PID: 12106
+[2020.06.16-15.05.37:302][  0]Primal Game Data Took 21.41 seconds
+[2020.06.16-15.05.54:458][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.06.16-15.06.35:314][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.06.16-15.06.35:314][  0]BattlEye successfully started.
+[2020.06.16-15.06.35:315][  0]bEnableMeshBitingProtection is True
+[2020.06.16-15.06.55:285][  0]Server: "Penu2" has successfully started!
+[2020.06.16-15.07.09:103][  0]Commandline:  Ragnarok?SessionName=Penu2?AltSaveDirectoryName=Ragnarok?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27017?RCONPort=27022?Port=7779 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
+[2020.06.16-15.07.09:103][  0]Full Startup: 114.83 seconds (BP compile: 0.00 seconds)
+[2020.06.16-15.07.09:103][  0]Number of cores 4
