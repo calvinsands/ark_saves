@@ -1,18 +1,12 @@
-﻿[2020.06.18-15.05.14:895][  0]Log file open, 06/18/20 11:05:14
-[2020.06.18-15.05.14:895][  0]ARK Version: 311.87
-[2020.06.18-15.05.14:895][  0]PID: 12073
-[2020.06.18-15.05.35:622][  0]Primal Game Data Took 20.17 seconds
-[2020.06.18-15.05.50:697][  0]SteamSocketsOpenSource: gethostname failed ()
-[2020.06.18-15.06.37:809][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
-[2020.06.18-15.06.37:810][  0]BattlEye successfully started.
-[2020.06.18-15.06.37:810][  0]bEnableMeshBitingProtection is True
-[2020.06.18-15.06.58:070][  0]Server: "Penu2" has successfully started!
-[2020.06.18-15.07.11:804][  0]Commandline:  Ragnarok?SessionName=Penu2?AltSaveDirectoryName=Ragnarok?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27017?RCONPort=27022?Port=7779 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
-[2020.06.18-15.07.11:804][  0]Full Startup: 117.94 seconds (BP compile: 0.00 seconds)
-[2020.06.18-15.07.11:804][  0]Number of cores 4
-[2020.06.18-23.40.48:320][485]'GiveExpToPlayer': Bad or missing property 'fromTribeShare'
-[2020.06.18-23.40.50:098][539]'GiveExpToPlayer': Bad or missing property 'fromTribeShare'
-[2020.06.18-23.40.56:008][716]'GiveExpToPlayer': Bad or missing property 'fromTribeShare'
-[2020.06.19-00.12.08:347][678]'GiveExpToPlayer': Bad or missing property 'bPreventSharingWithTribe'
-[2020.06.19-01.05.19:095][ 48]'GFI': Bad or missing property 'qualityOverride'
-[2020.06.19-01.37.22:010][498]'GFI': Bad or missing property 'quantityOverride'
+﻿[2020.06.19-15.05.15:308][  0]Log file open, 06/19/20 11:05:15
+[2020.06.19-15.05.15:308][  0]ARK Version: 311.87
+[2020.06.19-15.05.15:308][  0]PID: 12463
+[2020.06.19-15.05.36:538][  0]Primal Game Data Took 20.68 seconds
+[2020.06.19-15.05.53:490][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.06.19-15.06.40:043][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.06.19-15.06.40:044][  0]BattlEye successfully started.
+[2020.06.19-15.06.40:044][  0]bEnableMeshBitingProtection is True
+[2020.06.19-15.07.00:235][  0]Server: "Penu2" has successfully started!
+[2020.06.19-15.07.14:115][  0]Commandline:  Ragnarok?SessionName=Penu2?AltSaveDirectoryName=Ragnarok?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27017?RCONPort=27022?Port=7779 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
+[2020.06.19-15.07.14:115][  0]Full Startup: 119.84 seconds (BP compile: 0.00 seconds)
+[2020.06.19-15.07.14:115][  0]Number of cores 4
