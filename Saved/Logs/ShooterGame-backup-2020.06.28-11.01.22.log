@@ -1,0 +1,12 @@
+﻿[2020.06.27-15.01.24:393][  0]Log file open, 06/27/20 11:01:24
+[2020.06.27-15.01.24:393][  0]ARK Version: 312.9
+[2020.06.27-15.01.24:393][  0]PID: 10468
+[2020.06.27-15.04.55:486][  0]Primal Game Data Took 210.33 seconds
+[2020.06.27-15.05.02:978][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.06.27-15.05.46:195][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.06.27-15.05.46:233][  0]BattlEye successfully started.
+[2020.06.27-15.05.46:234][  0]bEnableMeshBitingProtection is True
+[2020.06.27-15.06.16:336][  0]Server: "Penu1" has successfully started!
+[2020.06.27-15.06.23:594][  0]Commandline:  TheIsland?SessionName=Penu1?AltSaveDirectoryName=TheIsland?listen?MultiHome=0.0.0.0?MaxPlayers=70?QueryPort=27015?RCONPort=27020?Port=7777 -automanagedmods -NoTransferFromFiltering -clusterid=penucluster
+[2020.06.27-15.06.23:594][  0]Full Startup: 303.42 seconds (BP compile: 0.00 seconds)
+[2020.06.27-15.06.23:594][  0]Number of cores 4
